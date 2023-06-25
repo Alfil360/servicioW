@@ -30,7 +30,7 @@ input[type="submit"]{
     padding: 10px;
     color: #fff;
     background: #0098cb;
-    width: 360px;
+    width: 340px;
     margin: 60px auto;
     margin-top: 0;
     border: 0;
@@ -40,7 +40,7 @@ input[type="submit"]{
 
 
 /*se agrega un estilo tipo hover para que cuando elcursor pase por el boton este cambie de color */
-input[type="sibmit"]:hover{
+input[type="submit"]:hover{
     background-color: green;
 }
 
