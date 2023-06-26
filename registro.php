@@ -23,6 +23,6 @@
             <br><br>
             <a href="index.php">Inicio de Sesión</a>
         </form>
-    <!--Añado enlace para redirección de paguina en caso de tener unusuario -->
+    <!--Añado enlace para redirección de pagina en caso de tener unusuario -->
 </body>
 </html>
